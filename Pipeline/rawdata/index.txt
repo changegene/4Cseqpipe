@@ -1,0 +1,3 @@
+id	run	lane_no	exp	primer_seq	species_name	first_cutter_name	first_cutter_seq	sec_cutter_name	sec_cutter_seq	linearization_name	linearization_seq	bait_chromo	bait_coord	seq_len	raw_fname
+1	2010_12	0	Hba-a1_DpnII_Csp6I_FL	AAGGAATTTGCCCTATGATC	Mus_musculus	DpnII	GATC	Csp6I	GTAC	NA	NA	11	32185894	36	alpha_FL_raw.txt
+2	2011_05	0	Hba-a1_DpnII_Csp6I_FB	AAGGAATTTGCCCTATGATC	Mus_musculus	DpnII	GATC	Csp6I	GTAC	NA	NA	11	32185894	36	alpha_FB_raw.txt
